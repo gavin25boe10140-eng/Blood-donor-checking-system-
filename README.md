@@ -69,4 +69,3 @@ Candidate is cleared for hemoglobin test.
 - Working with loops and conditionals
 - Validating user input
 - Real-world problem solving
-
