@@ -70,10 +70,3 @@ Candidate is cleared for hemoglobin test.
 - Validating user input
 - Real-world problem solving
 
-## Disclaimer
-
-Educational project only. Not intended for actual medical use without proper validation and compliance with medical regulations.
-
----
-
-**Project developed for Python programming course demonstrating fundamental concepts in a healthcare context.**
